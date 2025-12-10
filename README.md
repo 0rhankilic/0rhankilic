@@ -1,16 +1,35 @@
-## Hi there 👋
+🧑‍💻 Orhan Kılıç <img src="https://avatars.githubusercontent.com/u/85874946?v=4" style = "border-radius:12px;" width="300">
 
-<!--
-**0rhankilic/0rhankilic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mobil Teknolojileri öğrencisi | Web & Mobil geliştirici | Oyun geliştirme meraklısı
 
-Here are some ideas to get you started:
+Merhaba! Ben Orhan. Şu anda Trakya Üniversitesi Mobil Teknolojileri bölümünde okuyorum ve aktif olarak web geliştirme, mobil geliştirme ve küçük yazılım projeleri üzerine çalışıyorum.
+Kod yazmayı, yeni teknolojiler denemeyi ve fikirleri prototiplere dönüştürmeyi seviyorum.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Şu sıralar neler yapıyorum?
+
+Web alanında kendimi geliştirip staj bulmaya hazırlanıyorum
+
+Android Studio üzerinde parmak izi giriş özelliği olan şifre yöneticisi geliştiriyorum
+
+Playable ad (HTML5 oyun reklamları) geliştirmeyi öğreniyorum
+
+PHP & MySQL ile sipariş yönetimi projeleri geliştiriyorum
+
+Basit oyunlar ve mini projelerle GitHub’ı dolduruyorum
+
+🛠️ Kullandığım Teknolojiler
+
+Web:
+HTML5 • CSS • JavaScript • PHP • MySQL • TypeScript • React
+
+Mobil:
+Android Studio • Java • (öğreniyorum) Kotlin
+
+Diğer:
+Photoshop • Video Editing • Unity (temel) • Git & GitHub
+
+
+📫 Bana ulaş
+
+E-posta: 0rhankilic@proton.me
+LinkedIn: https://www.linkedin.com/in/0rhan-kilic/
