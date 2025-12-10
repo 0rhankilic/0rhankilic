@@ -1,4 +1,4 @@
-🧑‍💻 Orhan Kılıç <img src="https://avatars.githubusercontent.com/u/85874946?v=4" style = "border-radius:12px;" width="300">
+<img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/85874946&h=300&w=300&fit=cover&mask=circle" width="200">  🧑‍💻 Orhan Kılıç 
 
 Mobil Teknolojileri öğrencisi | Web & Mobil geliştirici | Oyun geliştirme meraklısı
 
