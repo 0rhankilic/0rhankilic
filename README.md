@@ -1,6 +1,5 @@
-🧑‍💻 Orhan Kılıç    <p align="right">
-  <img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/85874946&h=100&w=100&fit=cover&mask=circle" width="100">
-</p>
+🧑‍💻 Orhan Kılıç <img align="right" src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/85874946&h=100&w=100&fit=cover&mask=circle" width="100">
+
 
 Mobil Teknolojileri öğrencisi | Web & Mobil geliştirici | Oyun geliştirme meraklısı
 
@@ -22,13 +21,13 @@ Basit oyunlar ve mini projelerle GitHub’ı dolduruyorum
 🛠️ Kullandığım Teknolojiler
 
 Web:
-HTML5 • CSS • JavaScript • PHP • MySQL • TypeScript • React
+HTML5 • CSS • JavaScript • PHP • MySQL 
 
 Mobil:
 Android Studio • Java • (öğreniyorum) Kotlin
 
 Diğer:
-Photoshop • Video Editing • Unity (temel) • Git & GitHub
+Photoshop • Video Editing • Unity (Orta) • Git & GitHub
 
 
 📫 Bana ulaş
